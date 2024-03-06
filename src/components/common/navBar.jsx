@@ -19,7 +19,7 @@ const NavBar = (props) => {
 										: "nav-item"
 								}
 							>
-								<Link to="/home">Home</Link>
+								<Link to="/">Home</Link>
 							</li>
 							<li
 								className={
