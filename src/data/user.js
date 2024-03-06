@@ -3,7 +3,7 @@ const INFO = {
 		title: "João Zanutto - DevOps Engineer",
 		name: "João Zanutto",
 		email: "jpberno@gmail.com",
-		logo: "../logo.png",
+		logo: "logo.png",
 	},
 
 	socials: {
