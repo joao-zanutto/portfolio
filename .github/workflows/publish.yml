@@ -26,6 +26,9 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 16
+      
+      - name: Run NPM CI
+        run: npm ci
 
       - name: Setup Pages ⚙️
         uses: actions/configure-pages@v4
