@@ -1,12 +1,12 @@
 {
-	"name": "reactfolio",
+	"name": "portfolio",
 	"version": "1.1.0",
-	"description": "Personal portfolio template built using Reactjs",
-	"homepage": "https://joao-zanutto.github.io/portfolio",
+	"description": "Personal Portfolio João Zanutto",
+	"homepage": "https://joao-zanutto.github.io/portfolio/",
 	"author": {
-		"name": "Tharindu N. Madhusanka",
-		"email": "mail@tharindu.dev",
-		"url": "https://tharindu.dev"
+		"name": "João Zanutto",
+		"email": "jpberno@gmail.com",
+		"url": "https://joao-zanutto.github.io/portfolio/"
 	},
 	"license": "MIT",
 	"private": true,
