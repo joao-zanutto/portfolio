@@ -33,7 +33,7 @@ const INFO = {
 	articles: {
 		title: "Articles",
 		description:
-			"I write about Cloud Computing and DevOps topics and sometimes I share my opinion on other computing topics",
+			"I write about Cloud Computing and DevOps, and sometimes I share my opinion on other computing topics",
 	},
 
 	projects: [
