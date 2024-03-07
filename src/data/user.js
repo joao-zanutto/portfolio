@@ -24,8 +24,8 @@ const INFO = {
 	about: {
 		title: "Hello, I’m João",
 		description: [
-			"My journey as a technologist began when I was a kid, I remember hosting an alternative server for a Massive Multiplayer Online RPG video game and a supportive MySQL database on my home computer. I also built a website on Adobe Dreamweaver to advertise my game server and since those days, I’ve been constantly learning and experimenting.",
-			"At 18 I was accepted at the University of São Paulo, in the Computer Science Bachelorette course. There I learned the major foundational computing topics and had the chance to experiment and build projects on most areas applied in the industry. During college, I did significant projects on data science, embedded systems, web development, and software testing.",
+			"I began my journey in tech really young. At 12 years old, I hosted servers for two MMORPGs that I enjoyed in my home computer. Both of them included a backend server and a MySQL database. I also built websites on Adobe Dreamweaver to publish my servers and since then I've been into tech and distributed systems",
+			"At 18 I was accepted as a Computer Science Bachelor at the University of São Paulo, the greatest in Latin America. There I learned the major foundational topics in computing, and had the chance to experiment and build projects on most areas that are applied in the industry today. During college, I worked on data science, embedded systems, web development, and software testing projects.",
 			"By the time I finished college, I had 2 years of experience as a QA Engineer and was in my first year as a DevOps Engineer, the position where I learned the most. As a DevOps Engineer, I have the opportunity to test new technologies and use all the foundational computing knowledge I learned over all these years to design and build secure and resilient systems.",
 		],
 	},
