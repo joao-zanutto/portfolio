@@ -16,9 +16,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "DevOps Engineering",
+		title: "Cloud Solutions Expert",
 		description:
-			"I am a DevOps Engineer who helps companies deliver software faster by developing secure, scalable, and resilient cloud infrastructure and setting up fully automated deployment pipelines both for infrastructure and application. I have extensive experience in the AWS cloud and in DevOps best practices, including the use of Infrastructure as Code with Terraform",
+			"I'm João, I work as a Cloud Engineer and I help companies deliver secure and scalable software in a resilient and fast manner by provisioning cloud infrastructure, developing automation and deployment pipelines, and by configuring monitoring tools that let us know when something is not right. I have extensive experience in the AWS cloud and in DevOps best practices, focusing primarily on communication, collaboration, automation and observability pillars",
 	},
 
 	about: {
