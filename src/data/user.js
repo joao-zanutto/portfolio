@@ -1,7 +1,7 @@
 const INFO = {
 	main: {
-		title: "João Zanutto - DevOps Engineer",
-		name: "João Zanutto",
+		title: "Joao Zanutto - DevOps Engineer",
+		name: "Joao Zanutto",
 		email: "jpberno@gmail.com",
 		logo: "logo.png",
 	},
@@ -18,14 +18,14 @@ const INFO = {
 	homepage: {
 		title: "Cloud Solutions Expert",
 		description:
-			"I'm João, I work as a Cloud Engineer and I help companies deliver secure and scalable software in a resilient and fast manner by provisioning cloud infrastructure, developing automation and deployment pipelines, and by configuring monitoring tools that let us know when something is not right. I have extensive experience in the AWS cloud and in DevOps best practices, focusing primarily on communication, collaboration, automation and observability pillars",
+			"I'm Joao, I work as a Cloud Engineer and I help companies deliver secure and scalable software in a resilient and fast manner by provisioning cloud infrastructure, developing automation and deployment pipelines, and by configuring monitoring tools that let us know when something is not right. I have extensive experience in the AWS cloud and in DevOps best practices, focusing primarily on communication, collaboration, automation and observability pillars",
 	},
 
 	about: {
-		title: "Hello, I’m João",
+		title: "Hello, I’m Joao",
 		description: [
 			"I began my journey in tech really young. At 12 years old, I hosted servers for two MMORPGs that I enjoyed in my home computer. Both of them included a backend server and a MySQL database. I also built websites on Adobe Dreamweaver to publish my servers and since then I've been into tech and distributed systems",
-			"At 18 I was accepted as a Computer Science Bachelor at the University of São Paulo, the greatest in Latin America. There I learned the major foundational topics in computing, and had the chance to experiment and build projects on most areas that are applied in the industry today. During college, I worked on data science, embedded systems, web development, and software testing projects.",
+			"At 18 I was accepted as a Computer Science Bachelor at the University of Sao Paulo, the greatest in Latin America. There I learned the major foundational topics in computing, and had the chance to experiment and build projects on most areas that are applied in the industry today. During college, I worked on data science, embedded systems, web development, and software testing projects.",
 			"By the time I finished college, I had 2 years of experience as a QA Engineer and was in my first year as a DevOps Engineer, the position where I learned the most. As a DevOps Engineer, I have the opportunity to test new technologies and use all the foundational computing knowledge I learned over all these years to design and build secure and resilient systems.",
 		],
 	},
