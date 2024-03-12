@@ -16,7 +16,7 @@ const Education = () => {
 						<div className="work spacer">
 							<img
 								src="./usp-logo.jpg"
-								alt="orbee"
+								alt="usp"
 								className="work-image"
 							/>
 							<div className="work-title">Universidade de São Paulo</div>
