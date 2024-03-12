@@ -15,6 +15,19 @@ const Works = () => {
 					<div className="works-body">
 						<div className="work spacer">
 							<img
+								src="./toke.jpg"
+								alt="toke"
+								className="work-image"
+							/>
+							<div className="work-title">Vortx QR Tokenizadora</div>
+							<div className="work-subtitle">
+								DevOps Engineer
+							</div>
+							<div className="work-duration">2023 - Present</div>
+						</div>
+
+						<div className="work spacer">
+							<img
 								src="./orbee.png"
 								alt="orbee"
 								className="work-image"
@@ -53,7 +66,7 @@ const Works = () => {
 
 
 						</div>
-						
+
 						<div className="work spacer">
 							<div className="work-subtitle">
 								QA Engineer
