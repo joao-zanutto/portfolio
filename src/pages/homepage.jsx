@@ -13,6 +13,7 @@ import Footer from "../components/common/footer";
 import NavBar from "../components/common/navBar";
 import Article from "../components/homepage/article";
 import Works from "../components/homepage/works";
+import Education from "../components/homepage/education";
 import AllProjects from "../components/projects/allProjects";
 
 import INFO from "../data/user";
@@ -186,8 +187,14 @@ const Homepage = () => {
 								))}
 							</div>
 
-							<div className="homepage-works">
-								<Works />
+							<div className="">
+								<div className="homepage-works">
+									<Works />
+								</div>
+
+								<div className="homepage-works">
+									<Education />
+								</div>
 							</div>
 						</div>
 
@@ -196,8 +203,8 @@ const Homepage = () => {
 						</div>
 					</div>
 				</div>
-			</div>
-		</React.Fragment>
+			</div >
+		</React.Fragment >
 	);
 };
 
