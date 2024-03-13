@@ -28,10 +28,12 @@
 
 .project-logo {
 	width: 30px;
+	display: flex;
 }
 
 .project-logo img {
 	width: 100%;
+	padding-right: 10px;
 }
 
 .project-title {
