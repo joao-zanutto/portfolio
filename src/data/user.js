@@ -40,7 +40,7 @@ const INFO = {
 		{
 			title: "terraform-aws-ecs-cluster",
 			description:
-				"Terraform module used to deploy an ECS Cluster using EC2 instances as capacity provider.",
+				"Terraform module used to deploy an AWS ECS Cluster using EC2 instances as capacity provider.",
 			logo: [
 					"./tf.png",
 					"./aws.png"
@@ -50,12 +50,15 @@ const INFO = {
 		},
 
 		{
-			title: "Project 2",
+			title: "terraform-k8s-monitoring-module",
 			description:
-				"Lorem ipsum dolor sit amet. Et incidunt voluptatem ex tempore repellendus qui dicta nemo sit deleniti minima.",
-			logo: ["https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png"],
+				"Terraform module used to deploy Prometheus and Grafana stack in Kubernetes",
+			logo: [
+				"./tf.png",
+				"./k8s.png"
+				],
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://github.com/joao-zanutto/terraform-k8s-monitoring-module",
 		},
 
 	],
