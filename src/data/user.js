@@ -55,7 +55,9 @@ const INFO = {
 				"Terraform module used to deploy Prometheus and Grafana stack in Kubernetes",
 			logo: [
 				"./tf.png",
-				"./k8s.png"
+				"./k8s.png",
+				"./prometheus.png",
+				"./grafana.png"
 				],
 			linkText: "View Project",
 			link: "https://github.com/joao-zanutto/terraform-k8s-monitoring-module",
