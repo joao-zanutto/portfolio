@@ -66,7 +66,7 @@ const INFO = {
 				{
 			title: "shared-workflows",
 			description:
-				"Repository that contains GitHub actions workflows used in multiple Terraform modules repos",
+				"Repository that contains GitHub Actions workflows used in multiple Terraform modules repos",
 			logo: [
 				"./actions.png",
 				"./bash.png"
