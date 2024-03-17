@@ -61,6 +61,19 @@ const INFO = {
 			link: "https://github.com/joao-zanutto/terraform-k8s-monitoring-module",
 		},
 
+				{
+			title: "shared-workflows",
+			description:
+				"Repository that contains GitHub actions workflows used in multiple Terraform modules repos",
+			logo: [
+				"./actions.png",
+				"./bash.png"
+				],
+			linkText: "View Project",
+			link: "https://github.com/joao-zanutto/shared-workflows",
+		},
+
+
 	],
 };
 
