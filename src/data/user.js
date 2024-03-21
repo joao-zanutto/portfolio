@@ -85,7 +85,7 @@ const INFO = {
 				"./react.png"
 				],
 			linkText: "View Project",
-			link: "https://github.com/joao-zanutto/shared-workflows",
+			link: "https://github.com/joao-zanutto/portfolio",
 		},
 	],
 };
