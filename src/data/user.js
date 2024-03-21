@@ -63,7 +63,7 @@ const INFO = {
 			link: "https://github.com/joao-zanutto/terraform-k8s-monitoring-module",
 		},
 
-				{
+		{
 			title: "shared-workflows",
 			description:
 				"Repository that contains GitHub Actions workflows used in multiple Terraform modules repos",
@@ -76,6 +76,17 @@ const INFO = {
 		},
 
 
+		{
+			title: "portfolio",
+			description:
+				"Repository holding this website. Adapted from an open on an open-source project with a couple of changes made by myself",
+			logo: [
+				"./js.png",
+				"./react.png"
+				],
+			linkText: "View Project",
+			link: "https://github.com/joao-zanutto/shared-workflows",
+		},
 	],
 };
 
