@@ -1,6 +1,6 @@
 import { scaling_rds } from "./articles/scaling_rds";
-import { article2 } from "./articles/article2";
+import { tf_module_ci } from "./articles/tf_module_ci";
 
-const myArticles = [article2, scaling_rds];
+const myArticles = [tf_module_ci, scaling_rds];
 
 export default myArticles;
